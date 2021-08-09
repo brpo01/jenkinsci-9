@@ -107,6 +107,12 @@ plugin has to be installed
 
 ![17](https://user-images.githubusercontent.com/47898882/128697962-508dce18-e33c-4676-b11d-99852b49821b.JPG)
 
+- Make a change in your repository and commit the changes. A build will be triggered automatically and the build will be run. The outcome of the build should be successful if all the configurations were done properly. You'll that all of the files have been copied over to the nfs server successfully in your console output. To confirm chec the /mnt/apps directory on your nfs server
+
+![18](https://user-images.githubusercontent.com/47898882/128698333-5b02bb51-a4f5-4c06-85fa-d95edeb4a085.JPG)
+
+### Congratulations!!. You have built a jenkins pipline and implemented continuous integration for your software solution.
+
 
 
 
