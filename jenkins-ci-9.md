@@ -85,7 +85,7 @@ $ sudo systemcel status jenkins
 
 ![12](https://user-images.githubusercontent.com/47898882/128695573-38a1f9b8-fc35-44de-8165-881f16ca5282.JPG)
 
-- You can find the artifacts in the /var/lib/jenkins/jobs/tooling_github/builds/<build_number>/archive/. Replace `tooling_github` with the name of your freestyle project.
+- You can find the artifacts in the /var/lib/jenkins/jobs/tooling_github/builds/<build_number>/archive directory. Replace `tooling_github` with the name of your freestyle project.
 
 # **CONFIGURE JENKINS TO COPY FILES TO NFS SERVER VIA SSH**
 
