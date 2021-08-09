@@ -111,7 +111,7 @@ plugin has to be installed
 
 ![18](https://user-images.githubusercontent.com/47898882/128698333-5b02bb51-a4f5-4c06-85fa-d95edeb4a085.JPG)
 
-### Congratulations!!. You have built a jenkins pipline and implemented continuous integration for your software solution.
+### Congratulations!!. You have built a jenkins freestyle project and implemented continuous integration for your software solution.
 
 
 
